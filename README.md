@@ -1,7 +1,9 @@
 Introduction
+
 This repository serves as a hub for my ongoing Machine Learning endeavors. As I continue to explore and develop new projects, this space will be updated with the latest advancements, experiments, and insights gained in the field of ML.
 
 Projects
+
 Here are some of the projects included in this repository:
 
 Project 1: House Price Prediction
