@@ -14,3 +14,10 @@ The project is to implement machine learning algorithms using Scikit-Learn to pr
 
 Data source: https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
+Project 2: Image Classification
+
+https://github.com/Jimeng-Long/ML-Projects/blob/main/ImageClassification.ipynb
+
+This project is to implement computer vision algorithms (ANN and CNN) using Tensorflow to classify images into correct categories.
+
+Data source: CIFAR-10 dataset (Canadian Institute For Advanced Research).
